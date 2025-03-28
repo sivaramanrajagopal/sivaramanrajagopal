@@ -1,8 +1,8 @@
 #               👋 Hi, I’m Siva
 ## A passionate AI  leader from India
-- 👀 I’m interested in Datascience and AI
-- 🌱 I’m currently learning Predictive Analytics for Business and using NLP to predict Customer reviews,Sentiment analysis and Text Analytics
-- 💞️ I’m looking to collaborate on sentiment analysis prediction 
+- 👀 I’m a Solution and AI architect and program manager
+- 🌱 I’m currently working on  Predictive Analytics for Business and using NLP to predict Customer reviews,Sentiment analysis and Text Analytics
+- 💞️ I’m looking to collaborate on sentiment analysis prediction and astrology related projects
 - 📫 How to reach me vrsiva78@gmail.ccom
 
 <!---
